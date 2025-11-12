@@ -1,0 +1,5 @@
+[ ] Instalar Node.js
+[ ] Instalar VS Code
+[ ] Configurar Prettier
+[ ] Ligar GitHub com SSH
+[ ] Criar primeiro repositório remoto
